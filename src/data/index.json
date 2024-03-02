@@ -1,0 +1,82 @@
+{
+    "skills": [
+        {
+            "id": "1",
+             "src": "./img/product-chain-1.png",
+             "title": "Front-End",
+             "description": "Frontend The frontend of a software program or website is everything with which the user interacts."
+        },
+        {
+            "id": "2",
+             "src": "./img/tag-1.png", 
+             "title": "Back-End",
+             "description": "Back-end developers must focus on a great many tasks and responsibilities to ensure that the application runs smoothly."
+        },
+        {
+            "id": "3",
+             "src": "./img/feather-pen-2.png", 
+             "title": "UI & UX",
+             "description": "UI/UX design is constantly evolving with advances in technology and changing user behaviour, designers must stay up-to-date with the latest trends and best practices to create effective designs."
+        },
+        {
+            "id": "4",
+             "src": "./img/feather-pen-1.png", 
+             "title": "Webflow Developpment",
+             "description": "Intermediate"
+        }
+    ],
+
+    "portfolio": [
+        {
+            "id": "1",
+             "src": "",
+             "title": "Transportation Company Websire",
+             "description": "",
+             "link": "https://github.com/MKHAS/wasselni"
+        },
+        {
+            "id": "2",
+             "src": "", 
+             "title": "Movie Tickets Website",
+             "description": "",
+             "link": "https://github.com/tulalmnsr/movieMania"
+             
+
+        },
+        {
+            "id": "3",
+             "src": "", 
+             "title": "Project Final (E-Commerce Website)",
+             "description": "",
+             "link": "view in Github"
+        }
+    ],
+        "testimonial": [
+            {
+              "id": "1",
+              "count": "5",
+              "src": "./img/avatar-image.png",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+              "author_name": "Dianne Russel",
+              "author_designation": "Starbucks"
+            },
+            {
+              "id": "2",
+              "count": "5",
+              "src": "./img/avatar-image-1.png",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+              "author_name": "Kristin Watson",
+              "author_designation": "Louis Vuitton"
+            },
+            {
+              "id": "3",
+              "count": "5",
+              "src": "./img/avatar-image-2.png",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+              "author_name": "Kathryn Murphy",
+              "author_designation": "McDonald's"
+            }
+       
+       
+    ]
+}
